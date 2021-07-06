@@ -2,7 +2,7 @@
 
 - [**2020下半年①、②群通过人数（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
 
-- [**2019下半年①群通过率（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
+- [**2019下半年①群通过人数（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
  
 
 - **本库说明**
