@@ -1,4 +1,6 @@
 ﻿# :100:系统架构设计师复习资料【QQ群二维码在本文最后，加群请备注Github。免费提供其他备考资料或电子书查找服务。】
+ 
+<p align="center"><img src="https://img.shields.io/github/stars/xxlllq/system_architect" alt="xxlllq" /><img src="https://img.shields.io/github/forks/xxlllq/system_architect" alt="xxlllq" /></p> 
 
 - **通过人数**
 
