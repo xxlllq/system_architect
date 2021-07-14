@@ -1,7 +1,5 @@
 ﻿# :100:系统架构设计师复习资料【QQ群在本文最后，加群请备注Github。免费提供其他备考资料或电子书查找服务。】
  
-<p align="center"><a href="https://github.com/xxlllq/system_architect/stargazers"><img src="https://img.shields.io/github/stars/xxlllq/system_architect" alt="xxlllq" /></a> <a href="https://github.com/xxlllq/system_architect/fork"><img src="https://img.shields.io/github/forks/xxlllq/system_architect" alt="xxlllq" /></a></p> 
-
 - **通过人数**
 
   [2020下半年①、②群通过人数（仅供参考）](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
@@ -10,7 +8,11 @@
 
 - **仓库地址**
 
-  [Github](https://github.com/xxlllq/system_architect)、[Gitee](https://gitee.com/xxlllq/system_architect)
+<div align="center">
+ <a href="https://github.com/xxlllq/system_architect"><img src="https://github.com/fluidicon.png" width=55 /></a> 
+ <a href="https://github.com/xxlllq/system_architect/stargazers"><img src="https://img.shields.io/github/stars/xxlllq/system_architect" alt="xxlllq" /></a> <a href="https://github.com/xxlllq/system_architect/fork"><img src="https://img.shields.io/github/forks/xxlllq/system_architect" alt="xxlllq" /></a>
+ <a href="https://gitee.com/xxlllq/system_architect"><img src="https://gitee.com/static/images/logo-en.svg" width=50 /></a>
+</div> 
 
 - **本库简介**
 
