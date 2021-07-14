@@ -1,11 +1,16 @@
 ﻿# :100:系统架构设计师复习资料【QQ群二维码在本文最后，加群请备注Github。免费提供其他备考资料或电子书查找服务。】
 
-- [**2020下半年①、②群通过人数（仅供参考）**](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
+- **通过人数**
 
-- [**2019下半年①群通过人数（仅供参考）**](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
- 
+  [2020下半年①、②群通过人数（仅供参考）](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
+  
+  [2019下半年①群通过人数（仅供参考）](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
 
-- **本库说明**
+- **仓库地址**
+
+  [Github](https://github.com/xxlllq/system_architect)、[Gitee](https://gitee.com/xxlllq/system_architect)
+
+- **本库简介**
 
 2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
 <div align="center">
