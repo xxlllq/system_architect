@@ -8,10 +8,11 @@
 
 - **仓库地址**
 
+  Github与Gitee仓库同步更新，请点击图标后跳转查看。
 <div align="center">
- <a href="https://github.com/xxlllq/system_architect"><img src="https://github.com/fluidicon.png" width=55 /></a> 
+ <a href="https://github.com/xxlllq/system_architect"><img src="https://github.com/fluidicon.png" width=55 alt="Github"/></a> 
  <a href="https://github.com/xxlllq/system_architect/stargazers"><img src="https://img.shields.io/github/stars/xxlllq/system_architect" alt="xxlllq" /></a> <a href="https://github.com/xxlllq/system_architect/fork"><img src="https://img.shields.io/github/forks/xxlllq/system_architect" alt="xxlllq" /></a>
- <a href="https://gitee.com/xxlllq/system_architect"><img src="https://gitee.com/static/images/logo-en.svg" width=50 /></a>
+ <a href="https://gitee.com/xxlllq/system_architect"><img src="https://gitee.com/static/images/logo-en.svg" width=50 alt="Gitee"/></a>
 </div> 
 
 - **本库简介**
