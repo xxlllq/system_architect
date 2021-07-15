@@ -3,4 +3,4 @@
 3、系统架构设计师考试培训讲义-2019（来源于CSDN：https://download.csdn.net/download/b410739945/12351264）
 4、系统架构设计师考试培训讲义-2020（来源于CSDN：https://download.csdn.net/download/yatum_2014/20241741）
 
-以上资料需要CSDN积分下载，如需获取以上资料却没有积分，可去某宝搜索【CSDN代下】。
+以上链接均从CSDN上查找，资料需要CSDN积分下载，如需获取以上资料却没有积分，可去某宝搜索【CSDN代下】。
