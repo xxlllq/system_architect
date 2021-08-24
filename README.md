@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/files.png" width=400 />
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/files.png" width=800 />
     </kbd>
    </div>
 
