@@ -1,6 +1,6 @@
 ﻿# :100:系统架构设计师复习资料
  
-- 该项目从18年免费更新维护到至今，由于最近收到群友反馈网上存在大量的贩卖本仓库免费资源获取利益的情况，决定本仓库将暂停新版本资料更新，开放资源时间待定，后续资源更新将不再免费。
+- 该项目从18年免费更新维护到至今，由于最近收到群友反馈网上存在大量的贩卖本仓库免费资源获取利益的情况，[**点击查看资源保护记录**](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)，决定本仓库将暂停新版本资料更新，开放资源时间待定，后续资源更新将不再免费。
  
 - 如需相关资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者。或者可加QQ群，系统架构设计师（④群：910582038），系统分析师（②群：699260558），信息系统项目管理师（217144315），纯备考群，非培训群。
 
@@ -34,12 +34,14 @@
     </kbd>
    </div>
 
+- **资料**
+
 <div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/files.png" width=800 />
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/files.png" width=700 />
     </kbd>
    </div>
 
 <div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/years.png" width=800 />
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png" width=800 />
     </kbd>
    </div>
