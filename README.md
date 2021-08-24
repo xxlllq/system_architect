@@ -37,7 +37,7 @@
 - **资料**
 
 <div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/files.png" width=700 />
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/files.png" width=700 />
     </kbd>
    </div>
 
