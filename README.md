@@ -33,6 +33,9 @@
   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/result.png" width=400 />
     </kbd>
    </div>
+   
+- **收集的网上教学视频**
+  [[视频地址]](https://github.com/xxlllq/2018_system_architect/issues/1)
 
 - **资料**
 
