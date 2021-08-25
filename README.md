@@ -2,7 +2,20 @@
  
 - 该项目从18年免费更新维护至今，旨在帮助网友花最少的经济、投入最少的时间通过考试，但是最近收到群友反馈网上存在大量贩卖本仓库免费资源获取利益的情况，[**点击查看资源保护记录**](https://github.com/xxlllq/system_architect/blob/master/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)。决定将本仓库资料暂时下架，后续新版本资源将不再免费，[**点击获取最新版本资料**](https://m.tb.cn/h.f0WVMeu?sm=689d41)。
  
-- 如需相关资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者。或者可加QQ群，系统架构设计师（④群：910582038），系统分析师（②群：699260558），信息系统项目管理师（217144315），纯备考群，非培训群。
+- 如需架构资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者，或者可加QQ群，系统架构设计师（④群：910582038）。其他科目考试：系统分析师（②群：699260558），信息系统项目管理师（217144315），纯备考群，非培训群。
+
+- **资料**
+<div align="center">
+  <kbd>
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png" width=300 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png" width=300 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png" width=300 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/视频.png" width=300 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/其他.png" width=300 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png" width=300 />
+    </kbd>
+   </div>
+
 
 - **报名**
  
@@ -17,31 +30,12 @@
   
   [2019下半年①群通过人数](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
 
-- **仓库地址**
-
-  Github与Gitee仓库同步更新，请点击图标后跳转查看。
-<div align="center">
- <a href="https://github.com/xxlllq/system_architect"><img src="https://github.com/fluidicon.png" width=55 alt="Github" title="Github"/></a> 
- <a href="https://github.com/xxlllq/system_architect/stargazers"><img src="https://img.shields.io/github/stars/xxlllq/system_architect" alt="xxlllq" /></a> <a href="https://github.com/xxlllq/system_architect/fork"><img src="https://img.shields.io/github/forks/xxlllq/system_architect" alt="xxlllq" /></a>
- <a href="https://gitee.com/xxlllq/system_architect"><img src="https://gitee.com/static/images/logo-en.svg" width=50 alt="Gitee" title="Gitee"/></a>
-</div> 
-
-- **本库简介**
+   
+- **其他**
 
   2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
 <div align="center">
   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/result.png" width=400 />
     </kbd>
    </div>
-   
-- **资料**
-
-<div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/files.png" width=700 />
-    </kbd>
-   </div>
-
-<div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png" width=800 />
-    </kbd>
-   </div>
+   我是在2018年9月份决定报名参加系统架构设计师考试，主要是想借此机会督促自己学习些除工作外的知识。准备了2个月，复习时间为周末，复习方式为看教学视频和真题练习。上述资料均为复习过程和业务时间整理。
