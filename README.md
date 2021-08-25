@@ -34,9 +34,6 @@
     </kbd>
    </div>
    
-- **收集的网上教学视频**
-  [[视频地址]](https://github.com/xxlllq/2018_system_architect/issues/1)
-
 - **资料**
 
 <div align="center">
