@@ -21,7 +21,7 @@
 包含2009-2020年全套真题及解析（综合知识+案例分析+论文）、2009-2020年无解析版真题，方便打印复习、其他真题书籍电子版。
 <div align="center">
   <kbd>
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-1.jpg" width=350 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-1.png" width=350 />
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-2.jpg" width=350 />
     </kbd>
    </div>
