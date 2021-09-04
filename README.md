@@ -8,7 +8,7 @@
    
    <div align="center">
   <kbd>
-     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png" width=350 />
+     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png" width=250 />
     </kbd>
    </div>
    
