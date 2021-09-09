@@ -8,12 +8,12 @@
 - **资料简介**
 <div align="center">
   <kbd>
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png" width=250 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png" width=250 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png" width=250 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png" width=250 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/视频.png" width=250 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/视频.png" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png" width=270 />
     </kbd>
    </div>
 
@@ -22,12 +22,12 @@
 包含2009-2020年全套真题及解析(综合知识+案例分析+论文)、2009-2020年无解析版真题(方便打印刷题)、章节分类真题解析(按章节练习历年真题)、其他真题书籍电子版。
 <div align="center">
   <kbd>
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png" width=250 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-2.jpg" width=250 />
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png" width=250 />
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020真题及解析.png" width=250 />
-    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020无解析真题.png" width=250 />
-     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-2.jpg" width=270 />
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png" width=270 />
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020真题及解析.png" width=270 />
+    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020无解析真题.png" width=270 />
+     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png" width=270 />
     </kbd>
    </div>
 
