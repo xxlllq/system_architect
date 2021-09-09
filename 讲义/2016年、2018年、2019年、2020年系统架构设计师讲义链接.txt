@@ -1,5 +1,5 @@
-
------讲义链接从CSDN搜集，如需相关讲义，联系即刻帮忙下载。
+﻿
+-----讲义链接从CSDN搜集，如需下述讲义，请查看：https://m.tb.cn/h.f0WVMeu?sm=689d41。
 
 [2016年系统架构设计师179视频配套讲义](https://download.csdn.net/download/qq_34850441/10638549
 [2018年系统架构设计师考试培训讲义](https://download.csdn.net/download/ningshao1945/10628498
