@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style>
+			.container{
+				margin:0 auto;width: 400px;
+				padding-top: 100px;
+				text-align: center;
+			}
+			.text{
+				font-size: 24px;
+				font-weight: bold;
+				font-family: cursive;
+				text-align: center;
+				color: #2F52C5;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				border:1px solid;
+				/* color: #FB335D; */
+			}
+			.pulse{
+				    width: 400px;
+				    text-align: center;
+				    margin-top: -60px;
+			}
+			.button-29 {
+			    align-items: center;
+			    appearance: none;
+			    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+			    border: 0;
+			    border-radius: 6px;
+			    box-shadow: rgb(45 35 66 / 40%) 0 12px 14px, rgb(45 35 66 / 30%) 0 7px 13px -3px, rgb(58 65 111 / 50%) 0 -3px 0 inset;
+			    box-sizing: border-box;
+			    color: #fff;
+			    cursor: pointer;
+			    display: inline-flex;
+			    font-family: "JetBrains Mono",monospace;
+			    height: 48px;
+			    justify-content: center;
+			    line-height: 1;
+			    list-style: none;
+			    overflow: hidden;
+			    padding-left: 16px;
+			    padding-right: 16px;
+			    position: relative;
+			    text-align: left;
+			    text-decoration: none;
+			    transition: box-shadow .15s,transform .15s;
+			    user-select: none;
+			    -webkit-user-select: none;
+			    touch-action: manipulation;
+			    white-space: nowrap;
+			    will-change: box-shadow,transform;
+			}
+		</style>
+		<script src="https://rawgit.com/web-animations/web-animations-js/master/web-animations.min.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="text button-29">点击获取最新完整版资料</div>
+			<div class="pulse">
+				<img src="img/点击%20(1).png" />
+			</div>
+		</div>
+		
+		
+		<script>
+			var elem = document.querySelector('.pulse');
+			var animation = elem.animate({
+			  opacity: [0.5, 1],
+			    // transform: ['translateY(0.5px)', 'translateY(10px)'],
+			  transform: ['scale(0.5)', 'scale(0.7)'],
+			}, {
+			  direction: 'alternate',
+			  duration: 700,
+			  iterations: Infinity,
+			});
+
+		</script>
+	</body>
+</html>
