@@ -24,7 +24,6 @@
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png" title="点击查看大图：真题" width=270 />
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png" title="点击查看大图：论文" width=270 />
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png" title="点击查看大图：教材" width=270 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/视频.png" title="点击查看大图：视频" width=270 />
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png" title="点击查看大图：全套资料" width=270 />
     </kbd>
    </div>
