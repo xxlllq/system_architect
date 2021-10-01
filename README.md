@@ -11,6 +11,7 @@
    <div align="center">
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文1.png" title="点击查看大图：论文" width=400 />
    </div>
+   
  2. - [x] **2021年9月17日**：
     + 2013年综合知识题2题目更正。
     + 新增[论数据挖掘技术的应用]、[论Web系统的测试技术及其应用]、[论UP(统一过程方法)的应用]等论文范文。
