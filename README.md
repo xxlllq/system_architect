@@ -26,12 +26,12 @@
 - **资料简介**
 <div align="center">
   <kbd>
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png" title="点击查看大图：首页" width=270 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png" title="点击查看大图：真题" width=270 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png" title="点击查看大图：论文" width=270 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png" title="点击查看大图：教材" width=270 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png" title="点击查看大图：全套资料" width=270 />
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/占位.png" title="点击查看大图：教材" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png" title="点击查看大图：首页" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png" title="点击查看大图：真题" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png" title="点击查看大图：论文" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png" title="点击查看大图：教材" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png" title="点击查看大图：全套资料" width=250 />
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/占位.png" title="点击查看大图：教材" width=250 />
     </kbd>
    </div>
 
@@ -40,12 +40,12 @@
 包含2009-2020年全套真题及解析(综合知识+案例分析+论文)、2009-2020年无解析版真题(方便打印刷题)、章节分类真题解析(按章节练习历年真题)、其他真题书籍电子版。
 <div align="center">
   <kbd>
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png"  title="点击查看大图：详情-真题" width=270 />
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-2.jpg"  title="点击查看大图：详情-真题" width=270 />
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png"  title="点击查看大图：详情-真题" width=270 />
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020真题及解析.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=270 />
-    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020无解析真题.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=270 />
-     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png"  title="点击查看大图：系统架构设计师章节分类真题解析（2020版）" width=270 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png"  title="点击查看大图：详情-真题" width=250 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-2.jpg"  title="点击查看大图：详情-真题" width=250 />
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png"  title="点击查看大图：详情-真题" width=250 />
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020真题及解析.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=250 />
+    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020无解析真题.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=250 />
+     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png"  title="点击查看大图：系统架构设计师章节分类真题解析（2020版）" width=250 />
     </kbd>
    </div>
 
