@@ -1,25 +1,29 @@
 ﻿# :100:系统架构设计师复习资料
  
-- 该项目从18年免费更新维护至今，旨在帮助网友花最少的经济、投入最少的时间通过考试，但是最近收到群友反馈网上存在大量[贩卖本仓库免费资源](https://github.com/xxlllq/system_architect/blob/master/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)获取利益的情况。决定将本仓库部分资源下架，从2021年8月24日开始，后续部分资源将不再免费，[**点击获取最新完整版资料**](https://m.tb.cn/h.f6EQB9i?sm=bcae5f)，之前QQ交流群群友提供整理的资料将继续免费开放。
+- 该项目从18年免费更新维护至今，旨在帮助网友花最少的经济、投入最少的时间通过考试，但是最近收到群友反馈网上存在大量[贩卖本仓库免费资源](https://github.com/xxlllq/system_architect/blob/master/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)获取利益的情况。决定将本仓库部分资源下架，从2021年8月24日开始，后续部分资源将不再免费，[**点击获取最新完整版资料**](https://m.tb.cn/h.fhkS2jB?sm=cb204f)，之前QQ交流群群友提供整理的资料将继续免费开放。
    <div align="center">
-     <a href="https://m.tb.cn/h.f6EQB9i?sm=bcae5f"><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/getresources.gif" title="点击获取最新全套资料"/></a>
+     <a href="https://m.tb.cn/h.fhkS2jB?sm=cb204f"><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/getresources.gif" title="点击获取最新全套资料"/></a>
    </div>
    
 - **更新日志**
- 1. - [x] **2021年10月4日**：
-    + 更新25篇2009到2020年论文真题范文。
+ 1. - [x] **2021年11月23日**：
+    + 更新2021年真题及解析，更新新版本《系统架构设计师2009至2021真题及解析（2021版）》、《系统架构设计师2009至2021无解析真题（2021版）》。
    <div align="center">
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文1.png" title="点击查看大图：论文" width=400 />
+   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021真题及解析（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/>
+    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021无解析真题（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 />
    </div>
    
- 2. - [x] **2021年9月17日**：
+ 2. - [x] **2021年10月4日**：
+    + 更新25篇2009到2021年论文真题范文以及多篇参考范文。
+   
+ 3. - [x] **2021年9月17日**：
     + 2013年综合知识题2题目更正。
     + 新增[论数据挖掘技术的应用]、[论Web系统的测试技术及其应用]、[论UP(统一过程方法)的应用]等论文范文。
- 3. - [x] **2021年9月14日**：
+ 4. - [x] **2021年9月14日**：
     + 2017年案例分析题2第1问答案更正、2019年综合知识题28答案更正。
- 4. - [x] **2021年9月4日**：
+ 5. - [x] **2021年9月4日**：
     + 更新新版本《系统架构设计师综合知识章节分类真题+解析[2020版]》。 
- 5. - [x] **2021年9月3日**：
+ 6. - [x] **2021年9月3日**：
     + 2020年综合知识新增部分真题及解析；2019年综合知识真题完整版更新完毕，补全所有题目+解析+参考答案，调整题目顺序；2019年案例分析补全题4第3小问真题及解析。
     + 更新《系统架构设计师2009至2020真题及解析》、《系统架构设计师2009至2020无解析真题》、《系统架构设计师综合知识章节分类真题+解析[2019版]》。并调整[第11章测试评审方法]2019年题26的错误序号。
  
@@ -43,9 +47,9 @@
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png"  title="点击查看大图：详情-真题" width=260 />
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-2.jpg"  title="点击查看大图：详情-真题" width=260 />
       <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png"  title="点击查看大图：详情-真题" width=260 />
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020真题及解析.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=260 />
-    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2020无解析真题.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=260 />
-     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2020版）.png"  title="点击查看大图：系统架构设计师章节分类真题解析（2020版）" width=260 />
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021真题及解析（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=260 />
+    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021无解析真题（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=260 />
+     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师章节分类真题解析（2021年版）.png"  title="点击查看大图：系统架构设计师章节分类真题解析（2020版）" width=260 />
     </kbd>
    </div>
 
@@ -85,5 +89,5 @@
  </div>
 
  
-- 如需资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者，或直接加QQ群，**系统架构设计师（⑥群：1009309733）**。其他科目考试：系统分析师（②群：699260558），信息系统项目管理师（217144315），纯备考群，非培训群。
+- 如需资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者，或直接加QQ群，**系统架构设计师（⑥群：1009309733）**。其他科目考试：系统分析师（②群：699260558），信息系统项目管理师（②群：785329399）。
 
