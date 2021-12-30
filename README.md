@@ -7,7 +7,7 @@
    
 - **通过人数**
 
-  [2021下半年①~⑥群通过179人，点击查看详情 >](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2021%E4%B8%8B%E5%8D%8A%E5%B9%B4/2021.md)
+  [2021下半年①~⑥群通过180人，点击查看详情 >](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2021%E4%B8%8B%E5%8D%8A%E5%B9%B4/2021.md)
 
   [2020下半年①~②群通过116人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
   
