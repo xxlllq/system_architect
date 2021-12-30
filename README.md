@@ -7,11 +7,18 @@
    
 - **通过人数**
 
-  [2021下半年①~⑥群通过180人，点击查看详情 >](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2021%E4%B8%8B%E5%8D%8A%E5%B9%B4/2021.md)
-
-  [2020下半年①~②群通过116人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
+  :clap:[2021下半年①~⑥群通过180人，点击查看详情 >](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2021%E4%B8%8B%E5%8D%8A%E5%B9%B4/2021.md)
   
-  [2019下半年①群通过104人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
+  |        群名       | 通过人数 |   |        群名       | 通过人数 |
+  |:-----------------:|:--------:|---|:-----------------:|:--------:|
+  | 系统架构设计师①群 |   26人   |   | 系统架构设计师④群 |   26人   |
+  | 系统架构设计师②群 |   27人   |   | 系统架构设计师⑤群 |   25人   |
+  | 系统架构设计师③群 |   46人   |   | 系统架构设计师⑥群 |   30人   |
+
+
+  :clap:[2020下半年①~②群通过116人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
+  
+  :clap:[2019下半年①群通过104人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
 
 
 - **更新日志**
@@ -91,5 +98,5 @@
  </div>
 
  
-- 如需资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者，或直接加QQ群，**系统架构设计师（⑦群：709576550）**。其他科目考试：系统分析师（②群：699260558），信息系统项目管理师（②群：785329399）。
+- 如需资料可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者。
 
