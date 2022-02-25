@@ -1,4 +1,4 @@
------讲义链接从CSDN搜集，如需下述讲义，请查看： https://m.tb.cn/h.fmmp7vG?tk=zCou2edKVyo
+-----讲义链接从CSDN搜集，如需下述讲义，请查看： https://m.tb.cn/h.fNI2Zyx?tk=RzYE2VHRcQs
 
 
 [2021年系统架构设计师考试培训讲义](https://download.csdn.net/download/m0_65541699/75580389)
