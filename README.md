@@ -2,12 +2,11 @@
  
 - 可通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com**联系作者。
  
-- 该项目从18年免费更新维护至今，旨在帮助网友花最少的经济、投入最少的时间通过考试，但是最近收到群友反馈网上存在大量[贩卖本仓库免费资源](https://github.com/xxlllq/system_architect/blob/master/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)获取利益的情况。决定将本仓库部分资源下架，从2021年8月24日开始，部分资源后续将不再免费，[**点击获取最新完整版资料**](https://fchxxn.com/exam/)，之前QQ交流群群友提供整理的资料将继续免费开放。
+- 该项目从18年免费更新维护至今，旨在帮助网友花最少的经济、投入最少的时间通过考试，但是最近收到群友反馈网上存在大量[贩卖本仓库免费资源](https://github.com/xxlllq/system_architect/blob/master/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)获取利益的情况。决定将本仓库部分资源下架，从2021年8月24日开始，部分资源后续将不再免费，:point_right: [**点击获取最新完整版资料**](https://fchxxn.com/exam/) :point_left: ，之前QQ交流群群友提供整理的资料将继续免费开放。
  
  <div align="center">
   <a href="https://fchxxn.com/exam/"><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/getresources.gif" title="点击获取最新全套资料"/></a>
    </div>
-
    
 - **通过人数**
 
