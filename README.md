@@ -1,6 +1,6 @@
 ﻿# :100:系统架构设计师复习资料
  
-- 可通过QQ：**2679450097** 、邮箱：**	meihuaxifei@qq.com **联系作者。
+- 可通过QQ：**2679450097** 、邮箱：**meihuaxifei@qq.com**联系作者。
  
 - 该项目从18年免费更新维护至今，帮助不少网友花最少的经济、投入最少的时间通过了考试，但是最近收到群友反馈网上存在大量[贩卖本仓库免费资源](https://github.com/xxlllq/system_architect/blob/master/%E8%B5%84%E6%BA%90%E4%BF%9D%E6%8A%A4%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)获取利益的情况。决定从2021年8月24日开始，部分资源后续将不再免费:point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: ，之前QQ交流群群友提供整理的资料将继续免费开放。
 
