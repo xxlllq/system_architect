@@ -30,6 +30,7 @@
    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/>
     <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类解析（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 />
    </div>
+   
  2. - [x] **2022年08月19日**：
     + 完成2020年综合知识真题校正及英文题补充，预计8月20号更新《系统架构设计师综合知识章节分类真题+解析[2022版]》。
  3. - [x] **2022年03月02日**：
