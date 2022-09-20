@@ -32,8 +32,8 @@
  2. - [x] **2022年08月20日**：
     + 更新《系统架构设计师综合知识章节分类真题（2022版）》、《系统架构设计师综合知识章节分类解析（2022版）》。
    <div align="center">
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/>
-    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类解析（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 />
+    <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/> </kbd>
+     <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类解析（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 /> </kbd>
    </div>
    
  3. - [x] **2022年08月19日**：
@@ -43,8 +43,8 @@
  5. - [x] **2021年11月23日**：
     + 更新2021年真题及解析，更新新版本《系统架构设计师2009至2021真题及解析》、《系统架构设计师2009至2021无解析真题》。
    <div align="center">
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021真题及解析（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/>
-    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021无解析真题（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 />
+   <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021真题及解析（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/></kbd>
+     <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2021无解析真题（2022年版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 /> </kbd>
    </div>
    
  6. - [x] **2021年10月4日**：
