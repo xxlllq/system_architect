@@ -7,22 +7,6 @@
  
  - 可通过QQ：**2679450097** 、邮箱：**meihuaxifei@qq.com**联系作者。
  
-   
-- :information_desk_person: **通过人数**
-
-  :clap:[2021下半年①~⑥群通过180人，点击查看详情 >](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2021%E4%B8%8B%E5%8D%8A%E5%B9%B4/2021.md)
-  
-  |        群名       | 通过人数 |   |        群名       | 通过人数 |
-  |:-----------------:|:--------:|---|:-----------------:|:--------:|
-  | 系统架构设计师①群 |   26人   |   | 系统架构设计师④群 |   26人   |
-  | 系统架构设计师②群 |   27人   |   | 系统架构设计师⑤群 |   25人   |
-  | 系统架构设计师③群 |   46人   |   | 系统架构设计师⑥群 |   30人   |
-
-
-  :clap:[2020下半年①~②群通过116人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
-  
-  :clap:[2019下半年①群通过104人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
-
 
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
@@ -50,7 +34,6 @@
  6. - [x] **2021年10月4日**：
     + 更新25篇2009到2021年论文真题范文以及多篇参考范文。
    
- 
 - **资料简介**
 <div align="center">
   <kbd>
@@ -76,6 +59,22 @@
      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师综合知识章节分类真题（2022版）" width=260 />
     </kbd>
    </div>
+
+   
+ - :information_desk_person: **通过人数**
+
+  :clap:[2021下半年①~⑥群通过180人，点击查看详情 >](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2021%E4%B8%8B%E5%8D%8A%E5%B9%B4/2021.md)
+  
+  |        群名       | 通过人数 |   |        群名       | 通过人数 |
+  |:-----------------:|:--------:|---|:-----------------:|:--------:|
+  | 系统架构设计师①群 |   26人   |   | 系统架构设计师④群 |   26人   |
+  | 系统架构设计师②群 |   27人   |   | 系统架构设计师⑤群 |   25人   |
+  | 系统架构设计师③群 |   46人   |   | 系统架构设计师⑥群 |   30人   |
+
+
+  :clap:[2020下半年①~②群通过116人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
+  
+  :clap:[2019下半年①群通过104人，点击查看详情 > ](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
 
 
 - **报名**
