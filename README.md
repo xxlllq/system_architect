@@ -3,10 +3,9 @@
 - 该项目从2018年免费更新维护至今，帮助不少网友花最少的经济、投入最少的时间通过了考试，但是最近收到群友反馈网上存在大量贩卖本仓库免费资源获取利益的情况。决定从2021年8月24日开始，部分资源后续将不再免费:point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: ，之前QQ交流群群友提供整理的资料将继续免费开放。
 
 <h2 align="center">:point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: </h2>
- 
+
  - 可通过QQ：**2679450097** 、邮箱：**meihuaxifei@qq.com**联系作者。
  
-
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
  1. - [x] **2023年01月16日**：
