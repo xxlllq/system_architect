@@ -1,5 +1,17 @@
 ﻿
 - **更新日志**
+
+  - [x] **2023年01月16日**：
+    + 更新《系统架构设计师教程（第2版）》电子书，2022年12月出版。
+   <div align="center">
+     <kbd>
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材2023新版本.jpg" title="教材2023新版本.jpg" width=260 />
+   </kbd>  
+ </div>
+
+   - [x] **2022年11月10日**：
+    + 更新系统架构设计师2022年11月综合知识、案例分析、论文真题。
+
    - [x] **2022年10月31日**：
     + 更新系统架构设计师2022年11月模拟试卷。
    

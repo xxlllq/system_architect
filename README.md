@@ -9,26 +9,32 @@
 
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
- 1. - [x] **2022年11月10日**：
+ 1. - [x] **2023年01月16日**：
+    + 更新《系统架构设计师教程（第2版）》电子书，2022年12月出版。
+   <div align="center">
+     <kbd>
+      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材2023新版本.jpg" title="教材2023新版本.jpg" width=260 />
+   </kbd>  
+ </div>
+
+ 2. - [x] **2022年11月10日**：
     + 更新系统架构设计师2022年11月综合知识、案例分析、论文真题。
 
- 2. - [x] **2022年10月31日**：
+ 3. - [x] **2022年10月31日**：
     + 更新系统架构设计师2022年11月模拟试卷。
 
- 3. - [x] **2022年08月29日**：
+ 4. - [x] **2022年08月29日**：
     + 校正《系统架构设计师综合知识章节分类解析（2022版）》中2019年综合知识第28题的解析及答案。
    
- 4. - [x] **2022年08月20日**：
+ 5. - [x] **2022年08月20日**：
     + 更新《系统架构设计师综合知识章节分类真题（2022版）》、《系统架构设计师综合知识章节分类解析（2022版）》。
    <div align="center">
     <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/> </kbd>
      <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类解析（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 /> </kbd>
    </div>
    
- 5. - [x] **2022年08月19日**：
+ 6. - [x] **2022年08月19日**：
     + 完成2020年综合知识真题校正及英文题补充，预计8月20号更新《系统架构设计师综合知识章节分类真题+解析[2022版]》。
- 6. - [x] **2022年03月02日**：
-    + 2021年论文题1《论面向切面的编程技术及其应用》范文。
 
    
 - **资料简介**
