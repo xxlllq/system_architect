@@ -1,38 +1,36 @@
 ﻿- **更新日志**
 
- - [x] **2023年05月31日**：
-    + 开始准备《系统架构设计师综合知识真题及解析（2023版）》、《系统架构设计师综合知识无解析真题（2023版）》、《系统架构设计师综合知识章节分类真题（2023版）》、《系统架构设计师综合知识章节分类解析（2023版）》更新工作，计划于6月中旬更新完毕。
-    
- - [x] **2023年05月30日**：
+  - [x] **2023年06月01日**：
+    + 开始准备《系统架构设计师综合知识无解析真题（2023版）》、《系统架构设计师综合知识章节分类真题（2023版）》、《系统架构设计师综合知识章节分类解析（2023版）》更新工作，计划于6月中旬更新完毕。  
+    + 更新《系统架构设计师综合知识真题及解析（2023版）》。
+<div align="center"><kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师2009至2022真题及解析（2023版）.png" title="系统架构设计师2009至2022真题及解析（2023版）" width=240 /></kbd></div>
+ 
+  - [x] **2023年05月30日**：
     + 完成《2022年系统架构师考试科目一：综合知识真题及解析》、《2022年系统架构师考试科目二：案例分析真题及解析》、《2022年系统架构师考试科目三：论文真题》的更新。
-      <div align="center">
+ <div align="center">
     <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/项目图片/2022年系统架构师考试科目一综合知识真题及解析.jpg"  title="点击查看大图：2022年系统架构师考试科目一综合知识真题及解析" width=220/> </kbd>
      <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/项目图片/2022年系统架构师考试科目二案例分析真题及解析.jpg"  title="点击查看大图：2022年系统架构师考试科目二案例分析真题及解析" width=220 /> </kbd>
      <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/项目图片/2022年系统架构师考试科目三论文.jpg"  title="点击查看大图：2022年系统架构师考试科目三论文" width=220 /> </kbd>
-   </div>
+   </div>  
 
- - [x] **2023年01月16日**：
+  - [x] **2023年03月30日**：
+    + 开始准备《系统架构设计师综合知识真题及解析（2023版）》、《系统架构设计师综合知识无解析真题（2023版）》、《系统架构设计师综合知识章节分类真题（2023版）》、《系统架构设计师综合知识章节分类解析（2023版）》更新工作，计划于6月中旬更新完毕。  
+    + 更新最新版官方教材《系统架构设计师教程（第2版带书签）》电子书。
+<div align="center"><kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材2023新版本.jpg" title="教材2023新版本.jpg" width=240 /></kbd></div>
+
+  - [x] **2023年01月16日**：
     + 更新《系统架构设计师教程（第2版）》电子书，2022年12月出版。
-   <div align="center">
-     <kbd>
-      <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材2023新版本.jpg" title="教材2023新版本.jpg" width=260 />
-   </kbd>  
- </div>
- 
-  - [x] **2022年11月10日**：
     + 更新系统架构设计师2022年11月综合知识、案例分析、论文真题。
 
   - [x] **2022年10月31日**：
     + 更新系统架构设计师2022年11月模拟试卷。
-   
+
   - [x] **2022年08月29日**：
-    + 校正《系统架构设计师综合知识章节分类解析（2022版）》中2019年综合知识题28解析及答案。
-   
-  - [x] **2022年08月20日**：
+    + 校正《系统架构设计师综合知识章节分类解析（2022版）》中2019年综合知识第28题的解析及答案。
     + 更新《系统架构设计师综合知识章节分类真题（2022版）》、《系统架构设计师综合知识章节分类解析（2022版）》。
    <div align="center">
-   <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/>
-    <img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类解析（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 />
+    <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类真题（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020真题及解析" width=220/> </kbd>
+     <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/真题/系统架构设计师综合知识章节分类解析（2022版）.png"  title="点击查看大图：系统架构设计师2009至2020无解析真题" width=220 /> </kbd>
    </div>
    
   - [x] **2022年08月19日**：
