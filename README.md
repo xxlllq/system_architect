@@ -9,7 +9,7 @@
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
  1. - [x] **2023年08月14日**：
-    + 2023年下半年起，计算机软件资格考试方式均由纸笔考试改革为计算机化考试，考试报名工作调整为9月进行， <a href="https://www.ruankao.org.cn/index/details?id=100005230815172720662608" target="_blank" style="color:#f5803e">点击查看官方公告</a>。
+    + 2023年下半年起，计算机软件资格考试方式均由纸笔考试改革为计算机化考试，考试报名工作调整为9月进行。
 
  2. - [x] **2023年08月02日**：
     + 更新最新版考试大纲《系统架构设计师考试大纲（第2版）》电子书。
