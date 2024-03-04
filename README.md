@@ -8,7 +8,7 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
  1. - [x] **2024年01月02日**：
-    + **系统架构设计师考试调整为5月、11月一年两次**，相关通知可查看[河北人事考试网](https://www.hebpta.com.cn/article?artId=12127&id=293)、[陕西软考网](https://www.shaanxirk.com/rk/front/cms/article/three/35d0c2e0c9624487a4ec5ffb6d67e8d0/b9508f30a4eb422cbb0fed7efcf1cff3)。
+    + **系统架构设计师考试调整为5月、11月一年两次**，相关通知可查看[河北人事考试网](https://www.hebpta.com.cn/article?artId=12127&id=293)、[陕西软考网](https://www.shaanxirk.com/rk/front/cms/article/three/35d0c2e0c9624487a4ec5ffb6d67e8d0/b9508f30a4eb422cbb0fed7efcf1cff3)等。
 
  2. - [x] **2024年01月02日**：
     + 更新2023年11月系统架构设计师考试真题回忆版及真题分析视频。
