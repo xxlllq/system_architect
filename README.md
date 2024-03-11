@@ -1,6 +1,6 @@
 ﻿# :100:系统架构设计师复习资料
  
-- 该项目从2018年免费更新维护至今，帮助不少网友花最少的经济、投入最少的时间通过了考试，但是最近收到群友反馈网上存在大量贩卖本仓库免费资源获取利益的情况。决定从2021年8月24日开始，部分资源后续将不再免费更新:point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: ，之前QQ交流群群友提供整理的资料将继续免费开放。
+- 该项目从2018年免费更新维护至今，帮助不少网友花最少的经济、投入最少的时间通过了考试，但是最近收到群友反馈网上存在大量贩卖本仓库免费资源获取利益的情况。决定从2021年8月24日开始，部分资源后续将不再免费更新 :point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: ，之前QQ交流群群友提供整理的资料将继续免费开放。
 
 <h2 align="center">:point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: </h2>
 
