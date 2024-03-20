@@ -1,8 +1,0 @@
-﻿-----讲义链接从CSDN搜集，如需下述讲义，请查看：https://fchxxn.com/exam/
-
-
-[2021年系统架构设计师考试培训讲义](https://download.csdn.net/download/m0_65541699/75580389)
-[2020年系统架构设计师考试培训讲义](https://download.csdn.net/download/daotadefeng/20350855)
-[2019年系统架构设计师考试培训讲义](https://download.csdn.net/download/b410739945/12351264)
-[2018年系统架构设计师考试培训讲义](https://download.csdn.net/download/ningshao1945/10628498)
-[2016年系统架构设计师179视频配套讲义](https://download.csdn.net/download/qq_34850441/10638549)
