@@ -9,11 +9,13 @@
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 1. - [x] **2024年03月20日**：
     + 更新多款免费刷题软件渠道。
-  
+<div align="center">
+
 | **网页版**                   | **微信小程序**                     | **App**      |
 |:----------------------------:|:----------------------------------:|:------------:|
 |　[<img src="项目图片/51tk.png" align="center" width="180">](https://t.51cto.com)　|　 <img src="项目图片/51tkwx.jpg" width="180"> 　  | 　　　[<img src="项目图片/rkt.png" width="100">]() 　　　   |
 | [点击跳转](https://t.51cto.com)                   |        [使用微信扫码打开]()                             |    [手机应用商店搜索【软考通】]()          |
+</div>
 
  2. - [x] **2024年03月04日**：
     + **系统架构设计师考试调整为5月、11月一年两次**，相关通知可查看[软考办官网](https://www.ruankao.org.cn/article/content/2403051540559587162476957)，各省通知可查看[河北人事考试网](https://www.hebpta.com.cn/article?artId=12127&id=293)、[陕西软考网](https://www.shaanxirk.com/rk/front/cms/article/three/35d0c2e0c9624487a4ec5ffb6d67e8d0/b9508f30a4eb422cbb0fed7efcf1cff3)等。
