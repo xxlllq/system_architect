@@ -12,7 +12,7 @@
   
 | **网页版**                   | **微信小程序**                     | **App**      |
 |:----------------------------:|:----------------------------------:|:------------:|
-| <div align="center">[<img src="项目图片/51tk.png" align="center" width="">]([https://github.com/hpcaitech/Open-Sora/assets/99191637/de1963d3-b43b-4e68-a670-bb821ebb6f80](https://t.51cto.com))</div>     | <div align="center"><img src="项目图片/51tkwx.jpg" width="250">                              | 　　　　[<img src="项目图片/rkt.png" width="100">]() 　　　　   |
+| <div align="center">　　[<img src="项目图片/51tk.png" align="center" width="180">]([https://github.com/hpcaitech/Open-Sora/assets/99191637/de1963d3-b43b-4e68-a670-bb821ebb6f80](https://t.51cto.com))　　</div>     | <div align="center">　<img src="项目图片/51tkwx.jpg" width="250">　                              | 　　　　[<img src="项目图片/rkt.png" width="100">]() 　　　　   |
 | [点击跳转](https://t.51cto.com)                   |        [使用微信扫码打开]()                             |    [手机应用商店搜索【软考通】]()          |
 
  2. - [x] **2024年03月04日**：
