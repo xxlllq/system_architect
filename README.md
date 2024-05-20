@@ -8,7 +8,7 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
-1. - [x] **2024年05月07日**：
+1. - [x] **2024年05月20日**：
     + 更新2024年5月系统架构设计师考前模拟卷。
 
 2. - [x] **2024年04月07日**：
