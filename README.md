@@ -8,8 +8,8 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
-1. - [x] **2024年05月20日**：
-    + 更新2024年5月系统架构设计师考前模拟卷。
+1. - [x] **2024年05月24日**：
+    + 更新2024年5月系统架构设计师考前模拟卷一、模拟卷二。
 
 2. - [x] **2024年04月07日**：
     + 更新多款免费刷题软件渠道。
