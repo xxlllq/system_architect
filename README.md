@@ -9,9 +9,11 @@
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
 1. - [x] **2024年05月24日**：
-    + 更新2024年5月系统架构设计师考前模拟卷一、模拟卷二。
+    +  更新《2024年5月系统架构设计师考试-论文真题.pdf》电子版。
 
-2. - [x] **2024年04月07日**：
+
+2. - [x] **2024年05月24日**：
+    + 更新2024年5月系统架构设计师考前模拟卷一、模拟卷二。
     + 更新多款免费刷题软件渠道。
 <div align="center">
 
@@ -20,7 +22,6 @@
 |　[<img src="项目图片/51tk.png" align="center" width="180">](https://t.51cto.com)　|　 <img src="项目图片/51tkwx.jpg" width="180"> 　  | 　　　[<img src="项目图片/rkt.png" width="100">]() 　　　   |
 | [点击跳转](https://t.51cto.com)                   |        [使用微信扫码打开]()                             |    [手机应用商店搜索【软考通】]()          |
 </div>
-
 
 3. - [x] **2024年03月26日**：
     + 更新《系统架构设计师考试32小时通关-第2版》电子版pdf。
