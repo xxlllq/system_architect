@@ -101,7 +101,7 @@
    <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png?version=2024" title="点击查看大图：真题" width=260 />
    <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png?version=2024" title="点击查看大图：论文" width=260 />
    <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png?version=2024" title="点击查看大图：教材" width=260 />
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png?version=2024" title="点击查看大图：全套资料" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png?version=2024_1" title="点击查看大图：全套资料" width=260 />
       <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/占位.png?version=2024" title="点击查看大图：教材" width=260 />
     </kbd>
    </div>
