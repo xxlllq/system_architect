@@ -97,12 +97,12 @@
 - **资料简介**
 <div align="center">
   <kbd>
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png?version=2" title="点击查看大图：首页" width=260 />
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png?version=1" title="点击查看大图：真题" width=260 />
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png?version=1" title="点击查看大图：论文" width=260 />
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png?version=1" title="点击查看大图：教材" width=260 />
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png?version=1" title="点击查看大图：全套资料" width=260 />
-      <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/占位.png?version=1" title="点击查看大图：教材" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/首页.png?version=2024" title="点击查看大图：首页" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/真题.png?version=2024" title="点击查看大图：真题" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/论文.png?version=2024" title="点击查看大图：论文" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/教材.png?version=2024" title="点击查看大图：教材" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/全套资料.png?version=2024" title="点击查看大图：全套资料" width=260 />
+      <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/占位.png?version=2024" title="点击查看大图：教材" width=260 />
     </kbd>
    </div>
 
@@ -111,12 +111,12 @@
 包含2009-2022年全套真题及解析(综合知识+案例分析+论文)、2009-2022年无解析版真题(方便打印刷题)、章节分类真题解析(按章节练习历年真题)、其他真题书籍电子版。
 <div align="center">
   <kbd>
-   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png?version=1"  title="点击查看大图：详情-真题" width=260 />
-<img src="https://fchxxn.com/img/git/项目图片/2022年系统架构师考试科目一综合知识真题及解析.jpg?version=1"  title="点击查看大图：2022年系统架构师考试科目一综合知识真题及解析" width=260/> 
-      <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png?version=1"  title="点击查看大图：详情-真题" width=260 />
-      <img src="https://fchxxn.com/img/git/3. 历年真题及解析【2009-2024年】/系统架构设计师2009至2022真题及解析（2023版）.png?version=2"  title="点击查看大图：系统架构设计师2009至2022真题及解析" width=260 />
-    <img src="https://fchxxn.com/img/git/3. 历年真题及解析【2009-2024年】/系统架构设计师2009至2022无解析真题（2023版）.png?version=2"  title="点击查看大图：系统架构设计师2009至2022无解析真题" width=260 />
-     <img src="https://fchxxn.com/img/git/3. 历年真题及解析【2009-2024年】/系统架构设计师综合知识章节分类真题（2022版）.png?version=2"  title="点击查看大图：系统架构设计师综合知识章节分类真题（2022版）" width=260 />
+   <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new1.png?version=3"  title="点击查看大图：详情-真题" width=260 />
+<img src="https://fchxxn.com/img/git/项目图片/2022年系统架构师考试科目一综合知识真题及解析.jpg?version=3"  title="点击查看大图：2022年系统架构师考试科目一综合知识真题及解析" width=260/> 
+      <img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/详情-真题-new2.png?version=3"  title="点击查看大图：详情-真题" width=260 />
+      <img src="https://fchxxn.com/img/git/3. 历年真题及解析【2009-2024年】/系统架构设计师2009至2022真题及解析（2023版）.png?version=3"  title="点击查看大图：系统架构设计师2009至2022真题及解析" width=260 />
+    <img src="https://fchxxn.com/img/git/3. 历年真题及解析【2009-2024年】/系统架构设计师2009至2022无解析真题（2023版）.png?version=3"  title="点击查看大图：系统架构设计师2009至2022无解析真题" width=260 />
+     <img src="https://fchxxn.com/img/git/3. 历年真题及解析【2009-2024年】/系统架构设计师综合知识章节分类真题（2022版）.png?version=3"  title="点击查看大图：系统架构设计师综合知识章节分类真题（2022版）" width=260 />
     </kbd>
    </div>
 
