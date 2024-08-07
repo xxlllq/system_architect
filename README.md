@@ -30,7 +30,6 @@
     + 更新《系统架构设计师考试32小时通关-第2版》电子版pdf。
 <div align="center"><kbd><img src="https://fchxxn.com/img/git/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/book32.jpg" title="《系统架构设计师考试32小时通关》第2版" width=300 /></kbd></div>
 
-
 5. - [x] **2024年03月20日**：
     + 更新及补充2023年系统架构设计师真题及解析。
 
