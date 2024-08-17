@@ -8,8 +8,9 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [全部更新记录 > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
-1. - [x] **2024年08月13日**：
+1. - [x] **2024年08月17日**：
     +  更新多套2024年11月备考全套精讲（综合知识+案例分析+论文写作）视频。
+    +  补充更正2024年5月综合知识、案例分析、论文真题及解析。
     + 更新多款免费刷题软件渠道。
 <div align="center">
 
