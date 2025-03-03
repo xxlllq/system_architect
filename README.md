@@ -8,8 +8,8 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [**全部更新记录** > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
- 1. - [x] **2025年1月24日~2025年02月19日**：
-    +  更新2025年5月全套备考精讲视频。
+ 1. - [x] **2025年1月24日~2025年03月03日**：
+    +  更新2025年5月全套备考精讲视频、讲义。
     +  优化《系统架构设计师教程（清华第2版）.pdf》书签目录。
     +  更新多款免费刷题软件渠道。
 <div align="center">
