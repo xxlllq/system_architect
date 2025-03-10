@@ -18,7 +18,7 @@
  | **网页版**                   | **微信小程序**                     | **App**      |
 |:----------------------------:|:----------------------------------:|:------------:|
 |[<img src="项目图片/51tk.png" align="center" width="140">](https://t.51cto.com)　|<img src="项目图片/51tkwx.jpg" width="140">　|[<img src="项目图片/rkt.png" width="100">]()　　　|
-|[点击跳转]()                   |[使用微信扫码打开]()                             |[手机应用商店搜索]()          |
+|[点击图标跳转]()                   |[使用微信扫码打开]()                             |[手机应用商店搜索]()          |
 |[<img src="项目图片/xisai.png" align="center" width="100">](http://wangxiao.xisaiwang.com/tiku2/list-dp101.html)　|<img src="项目图片/xisaiwx.jpg" width="140">　|[<img src="项目图片/xisaiapp.jpg" width="100">]()　　　|
 </div>
 
