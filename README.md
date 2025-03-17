@@ -8,7 +8,7 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [**全部更新记录** > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
- 1. - [x] **2025年1月24日~2025年03月10日**：
+ 1. - [x] **2025年1月24日~2025年03月17日**：
     +  2025年5月软考报名已开始，各地区具体报名起止时间及[报名入口](https://bm.ruankao.org.cn/sign/welcome)可点击跳转查看。
     +  更新2025年5月全套备考精讲视频、讲义。
     +  优化《系统架构设计师教程（清华第2版）.pdf》书签目录。
