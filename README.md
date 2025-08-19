@@ -8,7 +8,7 @@
  
 - :notebook_with_decorative_cover: **更新记录**  [**全部更新记录** > ](https://github.com/xxlllq/system_architect/blob/master/UpdateLog.md)
 
- 1. - [x] **2025年5月28日~2025年07月28日**：
+ 1. - [x] **2025年08月19日**：
     +  更新2025年11月备考视频。
     +  更新多款免费刷题软件渠道。
  <div align="center">
